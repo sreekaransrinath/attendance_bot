@@ -1,7 +1,7 @@
 # attendance_bot
 A script that scrapes live chat from youtube and messages you when a link is posted.
 
-With the entire country of India (and most of the world) being under lockdown due to Covid-19, universities have had to resort to online classes to complete the syllabus. After trying (and miserably failing) to use platforms like Zoom and Skype, my particular uni decided to settle on YT Live as the perfect platform for conducting these classes, and attendance is to be marked by filling in a Google form within 3 minutes of it being posted in the live chat. 
+With the entire country of India (and most of the world) being under lockdown due to Covid-19, universities have had to resort to online classes to complete whatever is left in the school year. After trying (and miserably failing) to use platforms like Zoom and Skype, my particular uni decided to settle on YT Live as the perfect platform for conducting these classes, and attendance is to be marked by filling in a Google form within 3 minutes of it being posted in the live chat. 
 
 Under these trying circumstances, the semester exams are at risk of being cancelled, and as a result, attendance is more important than ever. 
 
